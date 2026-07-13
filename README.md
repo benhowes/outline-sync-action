@@ -1,3 +1,6 @@
+> [!warning]
+> I've not used/maintained this project for over 5 years. I've no idea if it still even works!
+
 # Markdown -> [Outline](https://getoutline.com) sync
 
 A github action to sync markdown files to your outline docs
